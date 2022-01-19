@@ -1,2 +1,2 @@
-# gadgethub
-GadgetHub - An Ecommerce Website using Django &amp; React
+# GadgetHub
+An Ecommerce Website using Django &amp; React
